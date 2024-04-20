@@ -1,4 +1,4 @@
-"""Beat command-line program.
+"""Beat command-line program. 
 
 This module is the 'program-version' of :mod:`celery.beat`.
 
